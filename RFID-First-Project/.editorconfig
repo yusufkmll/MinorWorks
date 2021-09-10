@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0219: Değişken atandı ancak değeri hiç kullanılmadı
+dotnet_diagnostic.CS0219.severity = silent
+
+# CS0649: person.id' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur
+dotnet_diagnostic.CS0649.severity = silent

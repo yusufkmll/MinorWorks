@@ -1,0 +1,64 @@
+C:\Users\Yusuf\source\repos\uyg\uyg\bin\Debug\uyg.exe.config
+C:\Users\Yusuf\source\repos\uyg\uyg\bin\Debug\uyg.exe
+C:\Users\Yusuf\source\repos\uyg\uyg\bin\Debug\uyg.pdb
+C:\Users\Yusuf\source\repos\uyg\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\uyg\uyg\obj\Debug\uyg.Form1.resources
+C:\Users\Yusuf\source\repos\uyg\uyg\obj\Debug\uyg.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\uyg\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\uyg\uyg\obj\Debug\uyg.exe
+C:\Users\Yusuf\source\repos\uyg\uyg\obj\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\uyg\uyg\bin\Debug\uyg.exe.config
+C:\Users\Yusuf\Desktop\uyg\uyg\bin\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\uyg\uyg\bin\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\uyg\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\uyg\uyg\obj\Debug\uyg.Form1.resources
+C:\Users\Yusuf\Desktop\uyg\uyg\obj\Debug\uyg.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\uyg\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\uyg\uyg\obj\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\uyg\uyg\obj\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\bin\Debug\uyg.exe.config
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\bin\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\bin\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\obj\Debug\uyg.Form1.resources
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\obj\Debug\uyg.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\obj\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\uygulamalar\uyg son hal\uyg\obj\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\bin\Debug\uyg.exe.config
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\bin\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\bin\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\obj\Debug\uyg.Form1.resources
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\obj\Debug\uyg.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\obj\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\uyg son hal\uyg\obj\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\bin\Debug\uyg.exe.config
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\bin\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\bin\Debug\uyg.pdb
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\obj\Debug\uyg.Form1.resources
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\obj\Debug\uyg.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\obj\Debug\uyg.exe
+C:\Users\Yusuf\Desktop\c#\uyg son hal\uyg\obj\Debug\uyg.pdb
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\bin\Debug\uyg.exe.config
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\bin\Debug\uyg.exe
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\bin\Debug\uyg.pdb
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\obj\Debug\uyg.Form1.resources
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\obj\Debug\uyg.Properties.Resources.resources
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\obj\Debug\uyg.exe
+F:\Yusuf\Ders & Bölüm\AESK\c#\uyg son hal\uyg\obj\Debug\uyg.pdb
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\bin\Debug\uyg.exe.config
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\bin\Debug\uyg.exe
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\bin\Debug\uyg.pdb
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.csprojAssemblyReference.cache
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.Form1.resources
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.Properties.Resources.resources
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.csproj.GenerateResource.cache
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.csproj.CoreCompileInputs.cache
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.exe
+F:\Yusuf\Ders Bolum\AESK\RFID Hatıra\uyg\obj\Debug\uyg.pdb
